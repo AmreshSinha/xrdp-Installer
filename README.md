@@ -1,5 +1,5 @@
 
-# xrdpBOY
+# XRDP Auto Installer
 Just an another automatic script! Automates installation of Xrdp with XFCE :))
 
 
